@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/Remmaabde/project-50-gitops-lab.git'
-    targetRevision: HEAD
+    repoURL: https://github.com/Remmaabde/otel-observability-lab
+    targetRevision: main
     path: k8s
   destination:
     server: 'https://kubernetes.default.svc'
