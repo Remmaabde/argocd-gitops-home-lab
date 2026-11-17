@@ -8,7 +8,7 @@
 
 A hands-on **GitOps and Continuous Delivery (CD) engineering lab** built with Kubernetes, ArgoCD, Docker, and GitHub.
 
-This project demonstrates how to implement a declarative deployment workflow where Git serves as the single source of truth for Kubernetes application configurations.
+This project shows how to implement a declarative deployment workflow where Git serves as the single source of truth for Kubernetes application configurations.
 
 Instead of manually deploying and updating workloads using `kubectl`, ArgoCD continuously monitors the Git repository and reconciles the Kubernetes cluster to match the desired state defined in Git.
 
