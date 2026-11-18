@@ -434,3 +434,4 @@ kind delete cluster --name gitops-lab
 This project is part of my practical journey as a **DevOps / Site Reliability Engineer (SRE)**, focusing on Kubernetes, GitOps, Continuous Delivery, infrastructure automation, and production-oriented deployment practices.
 
 **The goal is to move beyond manually deploying applications and build systems that continuously maintain their desired state through automation.**
+<!-- Pair coding note -->
